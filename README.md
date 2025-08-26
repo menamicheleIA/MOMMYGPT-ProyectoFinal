@@ -1,4 +1,4 @@
-MOMMYGPT
+#MOMMYGPT
 Acompañante realista, humano y práctico para madres en el postparto
 
 1. Descripción general
