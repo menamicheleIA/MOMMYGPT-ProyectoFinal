@@ -12,15 +12,15 @@ La aplicación envía mensajes proactivos de aliento, ofrece recetas rápidas y 
 
 ## Background
 
-Problema que resuelve
+### Problema que resuelve
 
 Muchas madres —en especial primerizas— atraviesan el postparto con dudas constantes, soledad en las madrugadas, sin red de apoyo y sin acceso inmediato a un médico. Las aplicaciones tradicionales no ofrecen contención real, pues se limitan a registrar datos sin aliviar la ansiedad ni el agotamiento.
 
-Frecuencia del problema
+### Frecuencia del problema
 
 La ansiedad y depresión postparto afectan a millones de mujeres en todo el mundo. Incluso sin diagnóstico clínico, el aislamiento y la falta de compañía son experiencias compartidas por la mayoría de las madres.
 
-Motivación personal
+### Motivación personal
 
 MOMMYGPT nace de la experiencia directa de enfrentar el postparto con dudas, cansancio y necesidad de apoyo real, con constantes dudas por las madrugadas si eran normal por ejemplo que mi bebé pujara tanto o si su popo estaba bien. El objetivo es que ninguna madre atraviese este proceso sin sentir compañía, validación y recursos prácticos.
 
@@ -28,7 +28,7 @@ Importancia
 
 El bienestar materno impacta directamente en la salud y el desarrollo del bebé. Si mamá está bien bebé por supuesto que estará bien. Brindar apoyo integral —emocional, práctico y médico básico— fortalece no solo a la madre, sino también a toda la familia.
 
-3. Técnicas de datos e inteligencia artificial
+## Técnicas de datos e inteligencia artificial
 
 Fuentes de datos
 
