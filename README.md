@@ -10,7 +10,7 @@ A diferencia de otras aplicaciones que se centran únicamente en métricas mecá
 
 La aplicación envía mensajes proactivos de aliento, ofrece recetas rápidas y saludables, comparte experiencias de otras madres y conecta con orientación médica online en horarios disponibles, siempre recomendando acudir a un médico real cuando sea necesario.
 
-2. Antecedentes
+## Background
 
 Problema que resuelve
 
