@@ -2,7 +2,7 @@
 
 Acompañante realista, humano y práctico para madres en el postparto
 
-1. ## Summary
+## Summary
 
 MOMMYGPT es una inteligencia artificial diseñada para acompañar a las madres en el postparto con empatía, apoyo real y orientación práctica.
 
